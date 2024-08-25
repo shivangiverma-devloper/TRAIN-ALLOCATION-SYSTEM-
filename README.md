@@ -1,0 +1,1 @@
+I created a train allocation system with Java. This system manages and assigns train resources in a smart way. It makes scheduling better, cuts down on conflicts, and boosts how well things run overall. It does this by making the allocation process automatic.
